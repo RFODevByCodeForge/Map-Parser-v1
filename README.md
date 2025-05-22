@@ -1,6 +1,6 @@
 # Batch Convert Tool for RF Map Files
 
-This is a command-line tool for batch converting `.dat` files to `.xlsx` and vice versa, designed for handling map files in Rising Force Nexus projects.
+This is a command-line tool for batch converting `.dat` files to `.xlsx` and vice versa, designed for handling map files in Rising Force projects.
 
 ## Features
 
