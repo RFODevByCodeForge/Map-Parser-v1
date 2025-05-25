@@ -20,4 +20,4 @@ This folder contains the output `.dat` files used in RF map projects.
 ## Example Path
 gu_out/
 └── Platform01/
-└── Plaform01-[Block].dat
+└── Platform01-[Block].dat
