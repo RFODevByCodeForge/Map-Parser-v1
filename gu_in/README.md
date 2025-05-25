@@ -21,5 +21,5 @@ This folder holds the editable `.xlsx` files used in RF map file editing.
 ```
 gu_in/
 └── Platform01/
-    └── tile_data.xlsx
+    └── Platform01-[Block].xlsx
 ```
