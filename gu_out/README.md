@@ -18,6 +18,8 @@ This folder contains the output `.dat` files used in RF map projects.
 - Ensure all `.dat` files are correctly placed in map-named subfolders.
 
 ## Example Path
+```
 gu_out/
 └── Platform01/
-└── Platform01-[Block].dat
+    └── Platform01-[Block].dat
+```
