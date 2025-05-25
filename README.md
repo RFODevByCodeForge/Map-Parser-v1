@@ -39,7 +39,6 @@ Make sure both folders are in the same directory as the executable.
 
 - Files related to portals (e.g. files containing `-portal`, `[portal]`) are excluded from conversion.
 - The tool prints progress and error messages to the console.
-- Requires Python environment for original `.py` scripts if you want to modify the tool.
 
 ## Example
 
