@@ -18,6 +18,8 @@ This folder holds the editable `.xlsx` files used in RF map file editing.
 - Keep this structure clean and mirror the map folder layout in `gu_out`.
 
 ## Example Path
+```
 gu_in/
 └── Platform01/
     └── tile_data.xlsx
+```
