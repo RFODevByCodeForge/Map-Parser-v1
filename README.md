@@ -44,14 +44,20 @@ Make sure both folders are in the same directory as the executable.
 
 Convert `.dat` files to `.xlsx`:
 
+```
 MapParser.exe --mode bin_to_xlsx
+```
 
 Convert `.xlsx` files to `.dat`:
 
+```
 MapParser.exe --mode xlsx_to_bin
+```
 
 Check and create missing `.xlsx` files:
 
+```
 MapParser.exe --mode check-files
+```
 
 If you encounter issues or have questions, please contact the developer.
